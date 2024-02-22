@@ -26,7 +26,7 @@ How to Run
 1. Ensure you have Python installed on your system.
 2. Clone or download this repository.
 3. Navigate to the directory containing the Python script.
-4. Run the script using the command: `python temperature_converter.py`.
+4. Run the script using the command: `python main.py`.
 
 Contributors
 - Mabimba Luombe Makasa
